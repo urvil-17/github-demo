@@ -1,4 +1,4 @@
 # github-demo
-<p style="color:red">this is my first github reposetry.<p> 
+this is my first github reposetry.
 <br>
 <b>Author : Urvil valand </b>
